@@ -9,6 +9,7 @@
 | [0268-missing-number](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0485-max-consecutive-ones) |
+| [0645-set-mismatch](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0682-baseball-game) |
 | [1470-shuffle-the-array](https://github.com/Arsathmuha/leet-code-solutions/tree/master/1470-shuffle-the-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Arsathmuha/leet-code-solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -28,6 +29,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0268-missing-number) |
+| [0645-set-mismatch](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0645-set-mismatch) |
 ## Math
 |  |
 | ------- |
@@ -40,12 +42,14 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0268-missing-number) |
+| [0645-set-mismatch](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0645-set-mismatch) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0268-missing-number) |
+| [0645-set-mismatch](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0645-set-mismatch) |
 ## Two Pointers
 |  |
 | ------- |
