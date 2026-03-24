@@ -11,6 +11,7 @@
 | [0485-max-consecutive-ones](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0682-baseball-game) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Arsathmuha/leet-code-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/Arsathmuha/leet-code-solutions/tree/master/1470-shuffle-the-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Arsathmuha/leet-code-solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1929-concatenation-of-array](https://github.com/Arsathmuha/leet-code-solutions/tree/master/1929-concatenation-of-array) |
@@ -32,6 +33,7 @@
 | [0169-majority-element](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0645-set-mismatch) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Arsathmuha/leet-code-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Math
 |  |
 | ------- |
@@ -52,6 +54,7 @@
 | [0169-majority-element](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0645-set-mismatch) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Arsathmuha/leet-code-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -66,4 +69,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0169-majority-element) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Arsathmuha/leet-code-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
