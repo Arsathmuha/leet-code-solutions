@@ -69,6 +69,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0283-move-zeroes) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Arsathmuha/leet-code-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Divide and Conquer
@@ -83,4 +84,8 @@
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Arsathmuha/leet-code-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
