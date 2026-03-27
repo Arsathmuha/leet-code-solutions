@@ -42,6 +42,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0645-set-mismatch) |
@@ -71,6 +72,7 @@
 | [0075-sort-colors](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Arsathmuha/leet-code-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -100,6 +102,7 @@
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0242-valid-anagram) |
 ## Dynamic Programming
 |  |
 | ------- |
