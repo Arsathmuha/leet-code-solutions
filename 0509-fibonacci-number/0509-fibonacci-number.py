@@ -2,6 +2,8 @@ class Solution:
     def fib(self, n: int) -> int:
         dic={}
         def fibo(n,dic):
+            if n in dic:
+                return dic[n]
             if n==0 or n==1:
                 return n
             else:
