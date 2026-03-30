@@ -1,12 +1,14 @@
 class Solution:
     def fib(self, n: int) -> int:
-        def fibo(n):
+        dic={}
+        def fibo(n,dic):
             if n==0 or n==1:
                 return n
             else:
-                return fibo(n-1)+fibo(n-2)
+                dic[n]=fibo(n-1,dic)+fibo(n-2,dic)
+                return dic[n]
             
-        return fibo(n)
+        return fibo(n,dic)
 
 
         
