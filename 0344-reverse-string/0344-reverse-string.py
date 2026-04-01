@@ -3,8 +3,4 @@ class Solution:
         """
         Do not return anything, modify s in-place instead.
         """
-        arr=[]
-        for i in s:
-            arr= [i] + arr
-        for i in range(len(s)):
-            s[i]=arr[i]
+        s[:]=s[::-1]
