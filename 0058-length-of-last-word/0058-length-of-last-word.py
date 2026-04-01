@@ -8,5 +8,6 @@ class Solution:
             ans+=ch
             ans=ans.strip()
 
+
         return len(ans)
         
