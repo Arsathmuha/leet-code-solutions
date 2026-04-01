@@ -7,7 +7,6 @@ class Solution:
                 ans=""
             ans+=ch
             ans=ans.strip()
-        print(ans)
 
         return len(ans)
         
