@@ -121,6 +121,7 @@
 | [0242-valid-anagram](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0434-number-of-segments-in-a-string](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0434-number-of-segments-in-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
