@@ -94,6 +94,7 @@
 | [0189-rotate-array](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0392-is-subsequence) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Arsathmuha/leet-code-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Divide and Conquer
 |  |
@@ -121,6 +122,7 @@
 | [0242-valid-anagram](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0392-is-subsequence](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0392-is-subsequence) |
 | [0434-number-of-segments-in-a-string](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0434-number-of-segments-in-a-string) |
 ## Dynamic Programming
 |  |
@@ -128,6 +130,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0070-climbing-stairs) |
+| [0392-is-subsequence](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
