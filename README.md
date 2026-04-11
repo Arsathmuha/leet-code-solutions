@@ -52,6 +52,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0645-set-mismatch) |
+| [0771-jewels-and-stones](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0771-jewels-and-stones) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Arsathmuha/leet-code-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Math
 |  |
@@ -126,6 +127,7 @@
 | [0392-is-subsequence](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0392-is-subsequence) |
 | [0434-number-of-segments-in-a-string](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0434-number-of-segments-in-a-string) |
 | [0657-robot-return-to-origin](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0657-robot-return-to-origin) |
+| [0771-jewels-and-stones](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0771-jewels-and-stones) |
 ## Dynamic Programming
 |  |
 | ------- |
