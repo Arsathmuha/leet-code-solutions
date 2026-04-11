@@ -1,13 +1,10 @@
 class Solution:
     def judgeCircle(self, moves: str) -> bool:
-        h=""
-        l=""
-        for ch in moves:
-            if ch =='R' or ch== 'L':
-                l += ch
-            elif ch =='U' or ch== 'D':
-                h += ch
-        if l.count('R') == l.count('L') and h.count('U') == h.count('D'):
+        l = moves.count("L")
+        r = moves.count("R")
+        u = moves.count("U")
+        d = moves.count("D")
+
+        if l == r and u == d:
             return True
-        else:
-            return False
+        return False
