@@ -21,6 +21,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Arsathmuha/leet-code-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Arsathmuha/leet-code-solutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1470-shuffle-the-array](https://github.com/Arsathmuha/leet-code-solutions/tree/master/1470-shuffle-the-array) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Arsathmuha/leet-code-solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Arsathmuha/leet-code-solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Arsathmuha/leet-code-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1929-concatenation-of-array](https://github.com/Arsathmuha/leet-code-solutions/tree/master/1929-concatenation-of-array) |
@@ -130,6 +131,7 @@
 | [0771-jewels-and-stones](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0796-rotate-string) |
 | [1108-defanging-an-ip-address](https://github.com/Arsathmuha/leet-code-solutions/tree/master/1108-defanging-an-ip-address) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Arsathmuha/leet-code-solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 ## Dynamic Programming
 |  |
 | ------- |
