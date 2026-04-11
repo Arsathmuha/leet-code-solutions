@@ -35,6 +35,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0657-robot-return-to-origin](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0682-baseball-game) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Arsathmuha/leet-code-solutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1929-concatenation-of-array](https://github.com/Arsathmuha/leet-code-solutions/tree/master/1929-concatenation-of-array) |
@@ -124,6 +125,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0392-is-subsequence) |
 | [0434-number-of-segments-in-a-string](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0434-number-of-segments-in-a-string) |
+| [0657-robot-return-to-origin](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0657-robot-return-to-origin) |
 ## Dynamic Programming
 |  |
 | ------- |
