@@ -48,6 +48,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0268-missing-number) |
@@ -126,6 +127,7 @@
 | [0071-simplify-path](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0125-valid-palindrome) |
 | [0165-compare-version-numbers](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0165-compare-version-numbers) |
+| [0205-isomorphic-strings](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0387-first-unique-character-in-a-string) |
