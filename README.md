@@ -14,6 +14,7 @@
 | [0238-product-of-array-except-self](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0645-set-mismatch) |
@@ -52,6 +53,7 @@
 | [0217-contains-duplicate](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -72,6 +74,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Arsathmuha/leet-code-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Bit Manipulation
 |  |
@@ -87,6 +90,7 @@
 | [0217-contains-duplicate](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0645-set-mismatch](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Arsathmuha/leet-code-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Arsathmuha/leet-code-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -101,6 +105,7 @@
 | [0189-rotate-array](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0392-is-subsequence) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Arsathmuha/leet-code-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Divide and Conquer
