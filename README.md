@@ -145,6 +145,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0010-regular-expression-matching) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0058-length-of-last-word) |
@@ -168,6 +169,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0010-regular-expression-matching) |
 | [0053-maximum-subarray](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0070-climbing-stairs) |
 | [0392-is-subsequence](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0392-is-subsequence) |
@@ -177,6 +179,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0010-regular-expression-matching) |
 | [0509-fibonacci-number](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
