@@ -181,6 +181,7 @@
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0010-regular-expression-matching) |
+| [0025-reverse-nodes-in-k-group](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0509-fibonacci-number](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -244,6 +245,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0025-reverse-nodes-in-k-group](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0025-reverse-nodes-in-k-group) |
 ## Merge Sort
 |  |
 | ------- |
