@@ -22,6 +22,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0682-baseball-game) |
+| [0960-delete-columns-to-make-sorted-iii](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Arsathmuha/leet-code-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Arsathmuha/leet-code-solutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1470-shuffle-the-array](https://github.com/Arsathmuha/leet-code-solutions/tree/master/1470-shuffle-the-array) |
@@ -151,6 +152,7 @@
 | [0657-robot-return-to-origin](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0657-robot-return-to-origin) |
 | [0771-jewels-and-stones](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0796-rotate-string) |
+| [0960-delete-columns-to-make-sorted-iii](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1108-defanging-an-ip-address](https://github.com/Arsathmuha/leet-code-solutions/tree/master/1108-defanging-an-ip-address) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Arsathmuha/leet-code-solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 ## Dynamic Programming
@@ -161,6 +163,7 @@
 | [0070-climbing-stairs](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0070-climbing-stairs) |
 | [0392-is-subsequence](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0509-fibonacci-number) |
+| [0960-delete-columns-to-make-sorted-iii](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0960-delete-columns-to-make-sorted-iii) |
 ## Recursion
 |  |
 | ------- |
