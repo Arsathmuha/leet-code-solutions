@@ -128,6 +128,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0169-majority-element) |
 ## Counting
@@ -233,9 +234,18 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0023-merge-k-sorted-lists) |
 | [2402-meeting-rooms-iii](https://github.com/Arsathmuha/leet-code-solutions/tree/master/2402-meeting-rooms-iii) |
 ## Matrix
 |  |
 | ------- |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Arsathmuha/leet-code-solutions/tree/master/1970-last-day-where-you-can-still-cross) |
+## Linked List
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
