@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0037-sudoku-solver](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0075-sort-colors) |
@@ -56,6 +57,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0037-sudoku-solver](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0169-majority-element) |
@@ -243,6 +245,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0037-sudoku-solver) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Arsathmuha/leet-code-solutions/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Linked List
 |  |
@@ -253,4 +256,8 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0023-merge-k-sorted-lists) |
+## Backtracking
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
