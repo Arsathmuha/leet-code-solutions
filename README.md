@@ -40,6 +40,7 @@
 | [2149-rearrange-array-elements-by-sign](https://github.com/Arsathmuha/leet-code-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2402-meeting-rooms-iii](https://github.com/Arsathmuha/leet-code-solutions/tree/master/2402-meeting-rooms-iii) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Arsathmuha/leet-code-solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Arsathmuha/leet-code-solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3637-trionic-array-i](https://github.com/Arsathmuha/leet-code-solutions/tree/master/3637-trionic-array-i) |
 ## Stack
 |  |
@@ -81,6 +82,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Arsathmuha/leet-code-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2402-meeting-rooms-iii](https://github.com/Arsathmuha/leet-code-solutions/tree/master/2402-meeting-rooms-iii) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Arsathmuha/leet-code-solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Arsathmuha/leet-code-solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Math
 |  |
 | ------- |
@@ -181,6 +183,7 @@
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1108-defanging-an-ip-address](https://github.com/Arsathmuha/leet-code-solutions/tree/master/1108-defanging-an-ip-address) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Arsathmuha/leet-code-solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Arsathmuha/leet-code-solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -275,4 +278,8 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0037-sudoku-solver) |
+## Trie
+|  |
+| ------- |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Arsathmuha/leet-code-solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 <!---LeetCode Topics End-->
