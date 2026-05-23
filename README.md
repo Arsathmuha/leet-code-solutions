@@ -26,6 +26,7 @@
 | [0645-set-mismatch](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0682-baseball-game) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0960-delete-columns-to-make-sorted-iii) |
+| [1345-jump-game-iv](https://github.com/Arsathmuha/leet-code-solutions/tree/master/1345-jump-game-iv) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Arsathmuha/leet-code-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Arsathmuha/leet-code-solutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1470-shuffle-the-array](https://github.com/Arsathmuha/leet-code-solutions/tree/master/1470-shuffle-the-array) |
@@ -74,6 +75,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0645-set-mismatch) |
 | [0771-jewels-and-stones](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0771-jewels-and-stones) |
+| [1345-jump-game-iv](https://github.com/Arsathmuha/leet-code-solutions/tree/master/1345-jump-game-iv) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Arsathmuha/leet-code-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2402-meeting-rooms-iii](https://github.com/Arsathmuha/leet-code-solutions/tree/master/2402-meeting-rooms-iii) |
 ## Math
@@ -237,6 +239,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [1345-jump-game-iv](https://github.com/Arsathmuha/leet-code-solutions/tree/master/1345-jump-game-iv) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Arsathmuha/leet-code-solutions/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/Arsathmuha/leet-code-solutions/tree/master/2092-find-all-people-with-secret) |
 ## Graph Theory
