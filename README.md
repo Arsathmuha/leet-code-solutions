@@ -13,6 +13,7 @@
 | [0075-sort-colors](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0169-majority-element](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0189-rotate-array) |
@@ -99,6 +100,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0268-missing-number](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0349-intersection-of-two-arrays) |
