@@ -6,6 +6,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0015-3sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0037-sudoku-solver](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0053-maximum-subarray) |
@@ -97,6 +98,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0268-missing-number](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0349-intersection-of-two-arrays) |
