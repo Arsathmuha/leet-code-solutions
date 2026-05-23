@@ -38,6 +38,7 @@
 | [1970-last-day-where-you-can-still-cross](https://github.com/Arsathmuha/leet-code-solutions/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Arsathmuha/leet-code-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2402-meeting-rooms-iii](https://github.com/Arsathmuha/leet-code-solutions/tree/master/2402-meeting-rooms-iii) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Arsathmuha/leet-code-solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3637-trionic-array-i](https://github.com/Arsathmuha/leet-code-solutions/tree/master/3637-trionic-array-i) |
 ## Stack
 |  |
@@ -78,6 +79,7 @@
 | [1345-jump-game-iv](https://github.com/Arsathmuha/leet-code-solutions/tree/master/1345-jump-game-iv) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Arsathmuha/leet-code-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2402-meeting-rooms-iii](https://github.com/Arsathmuha/leet-code-solutions/tree/master/2402-meeting-rooms-iii) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Arsathmuha/leet-code-solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## Math
 |  |
 | ------- |
@@ -102,6 +104,7 @@
 | ------- |
 | [0268-missing-number](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0645-set-mismatch) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Arsathmuha/leet-code-solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## Sorting
 |  |
 | ------- |
