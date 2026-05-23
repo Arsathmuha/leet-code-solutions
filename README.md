@@ -97,6 +97,7 @@
 | [0007-reverse-integer](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0012-integer-to-roman) |
+| [0029-divide-two-integers](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0029-divide-two-integers) |
 | [0070-climbing-stairs](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0189-rotate-array) |
@@ -116,6 +117,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0029-divide-two-integers) |
 | [0268-missing-number](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0645-set-mismatch) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Arsathmuha/leet-code-solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
