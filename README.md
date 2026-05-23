@@ -184,6 +184,7 @@
 | [0010-regular-expression-matching](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0049-group-anagrams](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0049-group-anagrams) |
@@ -210,6 +211,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0010-regular-expression-matching) |
+| [0022-generate-parentheses](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0070-climbing-stairs) |
 | [0392-is-subsequence](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0392-is-subsequence) |
@@ -303,6 +305,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0037-sudoku-solver) |
 ## Trie
 |  |
