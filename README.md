@@ -20,6 +20,7 @@
 | [0042-trapping-rain-water](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0053-maximum-subarray) |
@@ -114,6 +115,7 @@
 | [0012-integer-to-roman](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0043-multiply-strings) |
+| [0048-rotate-image](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0189-rotate-array) |
@@ -322,6 +324,7 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0048-rotate-image) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Arsathmuha/leet-code-solutions/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Linked List
 |  |
