@@ -17,6 +17,7 @@
 | [0039-combination-sum](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0053-maximum-subarray) |
@@ -58,6 +59,7 @@
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0071-simplify-path) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0682-baseball-game](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0682-baseball-game) |
@@ -162,6 +164,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0125-valid-palindrome) |
 | [0165-compare-version-numbers](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0165-compare-version-numbers) |
@@ -229,6 +232,7 @@
 | [0010-regular-expression-matching](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0070-climbing-stairs) |
 | [0392-is-subsequence](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0392-is-subsequence) |
@@ -334,4 +338,8 @@
 |  |
 | ------- |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Arsathmuha/leet-code-solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
