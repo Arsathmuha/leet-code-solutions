@@ -236,6 +236,7 @@
 | [0065-valid-number](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0065-valid-number) |
 | [0068-text-justification](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0071-simplify-path) |
+| [0072-edit-distance](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0072-edit-distance) |
 | [0125-valid-palindrome](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0125-valid-palindrome) |
 | [0165-compare-version-numbers](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0165-compare-version-numbers) |
 | [0205-isomorphic-strings](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0205-isomorphic-strings) |
@@ -267,6 +268,7 @@
 | [0063-unique-paths-ii](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0072-edit-distance) |
 | [0392-is-subsequence](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0509-fibonacci-number) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0960-delete-columns-to-make-sorted-iii) |
