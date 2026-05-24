@@ -35,6 +35,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0078-subsets) |
 | [0128-longest-consecutive-sequence](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -156,6 +157,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0029-divide-two-integers) |
+| [0078-subsets](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0078-subsets) |
 | [0268-missing-number](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0645-set-mismatch) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Arsathmuha/leet-code-solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -392,6 +394,7 @@
 | [0051-n-queens](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0078-subsets) |
 ## Trie
 |  |
 | ------- |
