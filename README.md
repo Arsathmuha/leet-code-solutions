@@ -37,6 +37,7 @@
 | [0074-search-a-2d-matrix](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0079-word-search) |
 | [0128-longest-consecutive-sequence](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -250,6 +251,7 @@
 | [0071-simplify-path](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0125-valid-palindrome) |
 | [0165-compare-version-numbers](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0165-compare-version-numbers) |
 | [0205-isomorphic-strings](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0205-isomorphic-strings) |
@@ -343,6 +345,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0079-word-search) |
 | [1306-jump-game-iii](https://github.com/Arsathmuha/leet-code-solutions/tree/master/1306-jump-game-iii) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Arsathmuha/leet-code-solutions/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/Arsathmuha/leet-code-solutions/tree/master/2092-find-all-people-with-secret) |
@@ -374,6 +377,7 @@
 | [0064-minimum-path-sum](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0079-word-search) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Arsathmuha/leet-code-solutions/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Linked List
 |  |
@@ -402,6 +406,7 @@
 | [0052-n-queens-ii](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0079-word-search) |
 ## Trie
 |  |
 | ------- |
