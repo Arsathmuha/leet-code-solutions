@@ -41,6 +41,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0085-maximal-rectangle) |
 | [0128-longest-consecutive-sequence](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -81,6 +82,7 @@
 | [0042-trapping-rain-water](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0085-maximal-rectangle) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0682-baseball-game](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0682-baseball-game) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Arsathmuha/leet-code-solutions/tree/master/1441-build-an-array-with-stack-operations) |
@@ -292,6 +294,7 @@
 | [0064-minimum-path-sum](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0072-edit-distance) |
+| [0085-maximal-rectangle](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0085-maximal-rectangle) |
 | [0392-is-subsequence](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0509-fibonacci-number) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0960-delete-columns-to-make-sorted-iii) |
@@ -385,6 +388,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0079-word-search) |
+| [0085-maximal-rectangle](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0085-maximal-rectangle) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Arsathmuha/leet-code-solutions/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Linked List
 |  |
@@ -425,6 +429,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0085-maximal-rectangle) |
 ## Combinatorics
 |  |
 | ------- |
