@@ -31,6 +31,7 @@
 | [0059-spiral-matrix-ii](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0064-minimum-path-sum) |
+| [0068-text-justification](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0068-text-justification) |
 | [0075-sort-colors](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -80,6 +81,7 @@
 | [0043-multiply-strings](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0059-spiral-matrix-ii) |
+| [0068-text-justification](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0068-text-justification) |
 | [0657-robot-return-to-origin](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0682-baseball-game) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Arsathmuha/leet-code-solutions/tree/master/1441-build-an-array-with-stack-operations) |
@@ -232,6 +234,7 @@
 | [0049-group-anagrams](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0065-valid-number) |
+| [0068-text-justification](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0125-valid-palindrome) |
 | [0165-compare-version-numbers](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0165-compare-version-numbers) |
