@@ -25,6 +25,7 @@
 | [0051-n-queens](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -247,6 +248,7 @@
 | [0042-trapping-rain-water](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0070-climbing-stairs) |
 | [0392-is-subsequence](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0509-fibonacci-number) |
@@ -272,6 +274,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0044-wildcard-matching) |
+| [0055-jump-game](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0055-jump-game) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Arsathmuha/leet-code-solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Arsathmuha/leet-code-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Sliding Window
