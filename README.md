@@ -11,6 +11,7 @@
 | [0018-4sum](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0037-sudoku-solver](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0051-n-queens) |
@@ -111,6 +112,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0268-missing-number](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0268-missing-number) |
