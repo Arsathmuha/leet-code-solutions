@@ -85,6 +85,7 @@
 | [0043-multiply-strings](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0059-spiral-matrix-ii) |
+| [0067-add-binary](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0068-text-justification) |
 | [0657-robot-return-to-origin](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0682-baseball-game) |
@@ -136,6 +137,7 @@
 | [0050-powx-n](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0062-unique-paths) |
+| [0067-add-binary](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0189-rotate-array) |
@@ -158,6 +160,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0078-subsets) |
 | [0268-missing-number](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0645-set-mismatch) |
@@ -242,6 +245,7 @@
 | [0049-group-anagrams](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0065-valid-number) |
+| [0067-add-binary](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0072-edit-distance) |
