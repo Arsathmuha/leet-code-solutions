@@ -262,6 +262,7 @@
 | [0072-edit-distance](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0079-word-search) |
+| [0087-scramble-string](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0087-scramble-string) |
 | [0125-valid-palindrome](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0125-valid-palindrome) |
 | [0165-compare-version-numbers](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0165-compare-version-numbers) |
 | [0205-isomorphic-strings](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0205-isomorphic-strings) |
@@ -296,6 +297,7 @@
 | [0070-climbing-stairs](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0085-maximal-rectangle) |
+| [0087-scramble-string](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0087-scramble-string) |
 | [0392-is-subsequence](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0509-fibonacci-number) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0960-delete-columns-to-make-sorted-iii) |
