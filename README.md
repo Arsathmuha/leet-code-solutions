@@ -209,6 +209,7 @@
 | [0032-longest-valid-parentheses](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0043-multiply-strings) |
+| [0044-wildcard-matching](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0058-length-of-last-word) |
 | [0071-simplify-path](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0071-simplify-path) |
@@ -236,6 +237,7 @@
 | [0022-generate-parentheses](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0042-trapping-rain-water) |
+| [0044-wildcard-matching](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0070-climbing-stairs) |
 | [0392-is-subsequence](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0392-is-subsequence) |
@@ -249,6 +251,7 @@
 | [0010-regular-expression-matching](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0010-regular-expression-matching) |
 | [0024-swap-nodes-in-pairs](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0025-reverse-nodes-in-k-group) |
+| [0044-wildcard-matching](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0044-wildcard-matching) |
 | [0509-fibonacci-number](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -259,6 +262,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0011-container-with-most-water) |
+| [0044-wildcard-matching](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0044-wildcard-matching) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Arsathmuha/leet-code-solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Arsathmuha/leet-code-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Sliding Window
