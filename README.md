@@ -28,6 +28,7 @@
 | [0055-jump-game](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0057-insert-interval) |
+| [0059-spiral-matrix-ii](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0059-spiral-matrix-ii) |
 | [0075-sort-colors](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -76,6 +77,7 @@
 | ------- |
 | [0043-multiply-strings](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0059-spiral-matrix-ii) |
 | [0657-robot-return-to-origin](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0682-baseball-game) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Arsathmuha/leet-code-solutions/tree/master/1441-build-an-array-with-stack-operations) |
@@ -336,6 +338,7 @@
 | [0037-sudoku-solver](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0059-spiral-matrix-ii) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Arsathmuha/leet-code-solutions/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Linked List
 |  |
