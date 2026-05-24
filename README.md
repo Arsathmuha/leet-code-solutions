@@ -29,6 +29,7 @@
 | [0056-merge-intervals](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0059-spiral-matrix-ii) |
+| [0063-unique-paths-ii](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0063-unique-paths-ii) |
 | [0075-sort-colors](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -258,6 +259,7 @@
 | [0053-maximum-subarray](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0070-climbing-stairs) |
 | [0392-is-subsequence](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0509-fibonacci-number) |
@@ -344,6 +346,7 @@
 | [0048-rotate-image](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0059-spiral-matrix-ii) |
+| [0063-unique-paths-ii](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0063-unique-paths-ii) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Arsathmuha/leet-code-solutions/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Linked List
 |  |
