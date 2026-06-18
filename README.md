@@ -161,6 +161,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0222-count-complete-tree-nodes](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Arsathmuha/leet-code-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -172,6 +173,7 @@
 | [0067-add-binary](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0089-gray-code) |
+| [0222-count-complete-tree-nodes](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0645-set-mismatch) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Arsathmuha/leet-code-solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -441,4 +443,12 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0062-unique-paths) |
+## Tree
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0222-count-complete-tree-nodes) |
+## Binary Tree
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->
