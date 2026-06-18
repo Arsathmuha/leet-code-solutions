@@ -369,6 +369,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1306-jump-game-iii](https://github.com/Arsathmuha/leet-code-solutions/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/Arsathmuha/leet-code-solutions/tree/master/1345-jump-game-iv) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Arsathmuha/leet-code-solutions/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -447,8 +448,10 @@
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0222-count-complete-tree-nodes) |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0958-check-completeness-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0222-count-complete-tree-nodes) |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0958-check-completeness-of-a-binary-tree) |
 <!---LeetCode Topics End-->
