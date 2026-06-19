@@ -448,10 +448,16 @@
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0222-count-complete-tree-nodes) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0958-check-completeness-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0222-count-complete-tree-nodes) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0958-check-completeness-of-a-binary-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
