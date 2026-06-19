@@ -364,6 +364,7 @@
 | ------- |
 | [0079-word-search](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0098-validate-binary-search-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [1306-jump-game-iii](https://github.com/Arsathmuha/leet-code-solutions/tree/master/1306-jump-game-iii) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Arsathmuha/leet-code-solutions/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/Arsathmuha/leet-code-solutions/tree/master/2092-find-all-people-with-secret) |
@@ -450,6 +451,7 @@
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0222-count-complete-tree-nodes) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -459,6 +461,7 @@
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0222-count-complete-tree-nodes) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -467,6 +470,7 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0098-validate-binary-search-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0701-insert-into-a-binary-search-tree) |
