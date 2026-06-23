@@ -359,6 +359,7 @@
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0547-number-of-provinces) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Arsathmuha/leet-code-solutions/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/Arsathmuha/leet-code-solutions/tree/master/2092-find-all-people-with-secret) |
 ## Depth-First Search
@@ -368,6 +369,7 @@
 | [0098-validate-binary-search-tree](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0200-number-of-islands](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0547-number-of-provinces](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0547-number-of-provinces) |
 | [1306-jump-game-iii](https://github.com/Arsathmuha/leet-code-solutions/tree/master/1306-jump-game-iii) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Arsathmuha/leet-code-solutions/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/Arsathmuha/leet-code-solutions/tree/master/2092-find-all-people-with-secret) |
@@ -375,6 +377,7 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0547-number-of-provinces) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1306-jump-game-iii](https://github.com/Arsathmuha/leet-code-solutions/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/Arsathmuha/leet-code-solutions/tree/master/1345-jump-game-iv) |
@@ -383,6 +386,7 @@
 ## Graph Theory
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0547-number-of-provinces) |
 | [2092-find-all-people-with-secret](https://github.com/Arsathmuha/leet-code-solutions/tree/master/2092-find-all-people-with-secret) |
 ## Heap (Priority Queue)
 |  |
