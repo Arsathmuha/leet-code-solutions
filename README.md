@@ -368,6 +368,7 @@
 | [0079-word-search](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0200-number-of-islands](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0207-course-schedule) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0547-number-of-provinces](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0547-number-of-provinces) |
 | [1306-jump-game-iii](https://github.com/Arsathmuha/leet-code-solutions/tree/master/1306-jump-game-iii) |
@@ -377,6 +378,7 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0547-number-of-provinces) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1306-jump-game-iii](https://github.com/Arsathmuha/leet-code-solutions/tree/master/1306-jump-game-iii) |
@@ -386,6 +388,7 @@
 ## Graph Theory
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0547-number-of-provinces) |
 | [2092-find-all-people-with-secret](https://github.com/Arsathmuha/leet-code-solutions/tree/master/2092-find-all-people-with-secret) |
 ## Heap (Priority Queue)
@@ -483,4 +486,8 @@
 | [0450-delete-node-in-a-bst](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0701-insert-into-a-binary-search-tree) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
