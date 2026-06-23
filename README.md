@@ -48,6 +48,7 @@
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0169-majority-element](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0268-missing-number) |
@@ -357,6 +358,7 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0200-number-of-islands) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Arsathmuha/leet-code-solutions/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/Arsathmuha/leet-code-solutions/tree/master/2092-find-all-people-with-secret) |
 ## Depth-First Search
@@ -364,6 +366,7 @@
 | ------- |
 | [0079-word-search](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0098-validate-binary-search-tree) |
+| [0200-number-of-islands](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [1306-jump-game-iii](https://github.com/Arsathmuha/leet-code-solutions/tree/master/1306-jump-game-iii) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Arsathmuha/leet-code-solutions/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -371,6 +374,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0200-number-of-islands) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1306-jump-game-iii](https://github.com/Arsathmuha/leet-code-solutions/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/Arsathmuha/leet-code-solutions/tree/master/1345-jump-game-iv) |
@@ -399,6 +403,7 @@
 | [0074-search-a-2d-matrix](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0085-maximal-rectangle) |
+| [0200-number-of-islands](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0200-number-of-islands) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Arsathmuha/leet-code-solutions/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Linked List
 |  |
