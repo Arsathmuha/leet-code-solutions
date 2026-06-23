@@ -57,6 +57,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0611-valid-triangle-number](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0611-valid-triangle-number) |
 | [0645-set-mismatch](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0682-baseball-game) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0960-delete-columns-to-make-sorted-iii) |
@@ -166,6 +167,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0611-valid-triangle-number](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0611-valid-triangle-number) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Arsathmuha/leet-code-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Arsathmuha/leet-code-solutions/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Bit Manipulation
@@ -194,6 +196,7 @@
 | [0242-valid-anagram](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0611-valid-triangle-number](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0611-valid-triangle-number) |
 | [0645-set-mismatch](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0645-set-mismatch) |
 | [0977-squares-of-a-sorted-array](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Arsathmuha/leet-code-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -225,6 +228,7 @@
 | [0344-reverse-string](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0392-is-subsequence) |
+| [0611-valid-triangle-number](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0611-valid-triangle-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Arsathmuha/leet-code-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Divide and Conquer
@@ -333,6 +337,7 @@
 | [0044-wildcard-matching](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0055-jump-game) |
+| [0611-valid-triangle-number](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0611-valid-triangle-number) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Arsathmuha/leet-code-solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Arsathmuha/leet-code-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Sliding Window
