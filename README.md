@@ -55,6 +55,7 @@
 | [0268-missing-number](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0435-non-overlapping-intervals](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0485-max-consecutive-ones) |
@@ -198,6 +199,7 @@
 | [0242-valid-anagram](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0435-non-overlapping-intervals](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0611-valid-triangle-number) |
 | [0645-set-mismatch](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0645-set-mismatch) |
@@ -316,6 +318,7 @@
 | [0087-scramble-string](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0087-scramble-string) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0392-is-subsequence) |
+| [0435-non-overlapping-intervals](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0509-fibonacci-number) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Arsathmuha/leet-code-solutions/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
@@ -343,6 +346,7 @@
 | [0045-jump-game-ii](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0435-non-overlapping-intervals](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0611-valid-triangle-number) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Arsathmuha/leet-code-solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
