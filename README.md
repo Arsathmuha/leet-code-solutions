@@ -84,6 +84,7 @@
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Arsathmuha/leet-code-solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Arsathmuha/leet-code-solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3637-trionic-array-i](https://github.com/Arsathmuha/leet-code-solutions/tree/master/3637-trionic-array-i) |
+| [3840-house-robber-v](https://github.com/Arsathmuha/leet-code-solutions/tree/master/3840-house-robber-v) |
 ## Stack
 |  |
 | ------- |
@@ -329,6 +330,7 @@
 | [0746-min-cost-climbing-stairs](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Arsathmuha/leet-code-solutions/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
+| [3840-house-robber-v](https://github.com/Arsathmuha/leet-code-solutions/tree/master/3840-house-robber-v) |
 ## Recursion
 |  |
 | ------- |
