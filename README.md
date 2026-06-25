@@ -51,6 +51,7 @@
 | [0189-rotate-array](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0200-number-of-islands) |
+| [0213-house-robber-ii](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0268-missing-number) |
@@ -320,6 +321,7 @@
 | [0087-scramble-string](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0087-scramble-string) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0213-house-robber-ii) |
 | [0392-is-subsequence](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0509-fibonacci-number) |
