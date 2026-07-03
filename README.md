@@ -525,5 +525,6 @@
 |  |
 | ------- |
 | [0584-find-customer-referee](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0584-find-customer-referee) |
+| [0585-investments-in-2016](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0585-investments-in-2016) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Arsathmuha/leet-code-solutions/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
