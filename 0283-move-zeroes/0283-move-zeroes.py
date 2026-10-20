@@ -7,8 +7,7 @@ class Solution:
                 c+=1
             else:
                 arr.append(nums[i])
-        
-        nums[:]=arr+c*[0]
+        nums[:] = arr + c*[0]
             
 
         
