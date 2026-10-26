@@ -45,6 +45,7 @@
 | [0085-maximal-rectangle](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0085-maximal-rectangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0136-single-number](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -186,6 +187,7 @@
 | [0067-add-binary](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0089-gray-code) |
+| [0136-single-number](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/Arsathmuha/leet-code-solutions/tree/master/0645-set-mismatch) |
